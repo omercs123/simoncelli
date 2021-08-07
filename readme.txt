@@ -1,0 +1,1 @@
+paper + code for the project in the course "Vision -Mechanisms, Models and Algorithms". Revieing Simoncelli's paper: "Local analysis of visual motion".
